@@ -5,5 +5,5 @@ Hi im ghin, this my profile.
 <br>
 **» HTML and CSS**
 # Discord🎉
-![Discord](https://img.shields.io/badge/discord-ghin6%232618-%237289DA?logo=discord&logoColor=white)
+![Discord](https://img.shields.io/badge/discord-ghin%232618-%237289DA?logo=discord&logoColor=white)
 
